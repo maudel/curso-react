@@ -1,8 +1,6 @@
 
-* [Acerca del curso](react/README.md)
-* [Introduction](react/introduction.md)
-
-* [ES6](react/es6.md)
+* [Conceptos Basicos](react/introduction.md)
+* [ES6 y Javascript](react/es6.md)
     * [Let y Const](react/letAndConst.md)
     * [Funciones Flecha](react/arrowFunctions.md)
     * [Parametros por Defecto](react/defaultParams.md)

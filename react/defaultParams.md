@@ -53,3 +53,26 @@ Send feedback
 History
 Saved
 Community
+
+### Ejercicios
+
+**Ejercicio 1.** Escribe una funcion que ejecute una funcion que ejecute otra funcion despues de un determinado retraso en milisegundos. El valor por defecto del retraso es un segundo.
+
+
+**Exercise 2.** Change the below code such that the second argument of `printComment` has a default value that's initially `1`, and is incremented by `1` after each call.
+
+    function printComment( comment, line ) {
+        console.log( line, comment );
+    }
+
+**Exercise 3** Determine the values written to the console.
+
++
+
+    function argList( productName, price = 100 ) {
+        console.log( arguments.length );
+        console.log( productName === arguments[0] );
+        console.log( price === arguments[1] );
+    };
+    
+    argList( 'Krill Oil Capsules' );
