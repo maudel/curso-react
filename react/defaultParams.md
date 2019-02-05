@@ -45,14 +45,13 @@ Enfoque 3: ES6 camino, se pone mucho mejor.
     };
     
 
-Otras lecturas:[https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/default\_parameters◆(https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions / default_parameters)
+#### Otras lecturas
+
+* [https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/default\_parameters◆(https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions / default_parameters)
 * [http://tc39wiki.calculist.org/es6/default-parameter-values/◆ (http://tc39wiki.calculist.org/es6/default-parameter-values/)
 * [http://exploringjs.com/es6/ch\_parameter-handling.html◆ (http: //exploringjs.com/es6/ch_parameter-handling.html)
 * [https://dorey.github.io/JavaScript-Equality-Table◆(https://dorey.github.io/JavaScript-Equality-Table)
-Send feedback
-History
-Saved
-Community
+
 
 ### Ejercicios
 
