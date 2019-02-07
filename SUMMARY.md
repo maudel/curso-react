@@ -10,6 +10,9 @@
 * [React](react/introduction.md)
     * [Crea tu Hola Mundo](react/holaMundo.md)
     * [Maneja Estados](react/estados.md)
+* [Ejercicios](react/ejercicios.md)
+    * [Menu](react/menu.md)
+
 
  
 
